@@ -1,0 +1,26 @@
+<annotation>
+	<folder>casual_W</folder>
+	<filename>Casual_W1844.jpg</filename>
+	<path>C:\Users\&#38515;&#24609;&#38748;\Desktop\&#24037;&#20316;&#31359;&#33879;&#28310;&#21063;\casual_W\Casual_W1844.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>S_sweater</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>37</ymin>
+			<xmax>281</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>

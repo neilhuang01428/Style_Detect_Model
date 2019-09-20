@@ -1,0 +1,38 @@
+<annotation>
+	<folder>&#25918;&#36889;</folder>
+	<filename>Smart casual_M974.jpg</filename>
+	<path>C:\Users\wu870225\Downloads\&#25918;&#36889;\Smart casual_M974.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>314</width>
+		<height>419</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F_dress pants</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>66</ymin>
+			<xmax>209</xmax>
+			<ymax>369</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>S_loaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>368</ymin>
+			<xmax>225</xmax>
+			<ymax>408</ymax>
+		</bndbox>
+	</object>
+</annotation>

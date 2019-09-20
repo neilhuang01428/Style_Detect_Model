@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>Formal_M99.jpg</filename>
+	<path>C:\Users\Dale\Desktop\&#24037;&#20316;&#31359;&#33879;&#28310;&#21063;-20190708T072430Z-001\1\Formal_M99.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>236</width>
+		<height>278</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>S_sweater</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>7</ymin>
+			<xmax>219</xmax>
+			<ymax>231</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>Formal_M35.jpg</filename>
+	<path>C:\Users\Dale\Desktop\&#24037;&#20316;&#31359;&#33879;&#28310;&#21063;-20190708T072430Z-001\1\Formal_M35.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>162</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C_T-shirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>8</ymin>
+			<xmax>161</xmax>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+</annotation>

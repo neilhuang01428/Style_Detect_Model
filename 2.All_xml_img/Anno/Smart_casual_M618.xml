@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Smart casual_M</folder>
+	<filename>Smart casual_M618.jpg</filename>
+	<path>D:\&#21205;&#24037;&#20013;\Smart casual_M\Smart casual_M618.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>468</width>
+		<height>702</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C_jeans</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>74</ymin>
+			<xmax>324</xmax>
+			<ymax>569</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>C_sneakers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>599</ymin>
+			<xmax>317</xmax>
+			<ymax>679</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>casual_W</folder>
+	<filename>Casual_W1688.jpg</filename>
+	<path>C:\Users\&#38515;&#24609;&#38748;\Desktop\&#24037;&#20316;&#31359;&#33879;&#28310;&#21063;\casual_W\Casual_W1688.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C_long sleeve</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>23</ymin>
+			<xmax>179</xmax>
+			<ymax>166</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>S_skirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>154</ymin>
+			<xmax>187</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Formal3</folder>
+	<filename>Formal_M4.jpg</filename>
+	<path>C:\Users\Jarvan\Downloads\&#26032;&#22686;&#36039;&#26009;&#22846;\Formal3\Formal_M4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C_T-shirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>39</ymin>
+			<xmax>239</xmax>
+			<ymax>276</ymax>
+		</bndbox>
+	</object>
+</annotation>

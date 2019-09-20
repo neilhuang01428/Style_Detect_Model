@@ -1,0 +1,26 @@
+<annotation>
+	<folder>casual_W</folder>
+	<filename>Casual_W1818.jpg</filename>
+	<path>C:\Users\&#38515;&#24609;&#38748;\Desktop\&#24037;&#20316;&#31359;&#33879;&#28310;&#21063;\casual_W\Casual_W1818.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C_jeans</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>186</ymin>
+			<xmax>185</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>皮帶</folder>
+	<filename>F_belt14.jpg</filename>
+	<path>C:\Users\Dale\Desktop\皮帶\F_belt14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F_belt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>258</xmin>
+			<ymin>206</ymin>
+			<xmax>579</xmax>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F_dress pants</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>218</xmin>
+			<ymin>270</ymin>
+			<xmax>615</xmax>
+			<ymax>871</ymax>
+		</bndbox>
+	</object>
+</annotation>

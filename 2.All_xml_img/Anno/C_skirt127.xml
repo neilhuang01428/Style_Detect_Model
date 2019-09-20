@@ -1,0 +1,26 @@
+<annotation>
+	<folder>C_skirt</folder>
+	<filename>C_skirt127.jpg</filename>
+	<path>C:\Users\陳怡靜\Desktop\工作穿著準則\C_skirt\C_skirt127.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>190</width>
+		<height>266</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C_skirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>56</ymin>
+			<xmax>150</xmax>
+			<ymax>220</ymax>
+		</bndbox>
+	</object>
+</annotation>

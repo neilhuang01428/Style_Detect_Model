@@ -1,0 +1,26 @@
+<annotation>
+	<folder>F_shirt</folder>
+	<filename>F_shirt (260).jpg</filename>
+	<path>C:\Users\alber\Desktop\工作內容\中國信託數據研究發展中心\工作穿著準則\0819\F_shirt\F_shirt (260).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F_shirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>68</ymin>
+			<xmax>397</xmax>
+			<ymax>258</ymax>
+		</bndbox>
+	</object>
+</annotation>

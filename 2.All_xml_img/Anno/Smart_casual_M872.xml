@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Smart casual_M</folder>
+	<filename>Smart casual_M872.jpg</filename>
+	<path>D:\&#21205;&#24037;&#20013;\Smart casual_M\Smart casual_M872.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>468</width>
+		<height>624</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>S_polo shirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>63</ymin>
+			<xmax>367</xmax>
+			<ymax>621</ymax>
+		</bndbox>
+	</object>
+</annotation>

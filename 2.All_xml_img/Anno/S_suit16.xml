@@ -1,0 +1,26 @@
+<annotation>
+	<folder>連身裙___Google_搜尋</folder>
+	<filename>S_suit16.JPG</filename>
+	<path>C:\Users\Dale\Desktop\連身裙___Google_搜尋\S_suit16.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>730</width>
+		<height>730</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>S_dress</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>230</xmin>
+			<ymin>178</ymin>
+			<xmax>519</xmax>
+			<ymax>694</ymax>
+		</bndbox>
+	</object>
+</annotation>

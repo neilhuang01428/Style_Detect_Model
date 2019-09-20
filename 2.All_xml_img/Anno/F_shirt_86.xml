@@ -1,0 +1,26 @@
+<annotation>
+	<folder>FORMAL SHIRT 改</folder>
+	<filename>F_shirt_86.jpg</filename>
+	<path>D:\動工中\FORMAL SHIRT 改\F_shirt_86.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>S_shirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>203</xmin>
+			<ymin>52</ymin>
+			<xmax>380</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+</annotation>

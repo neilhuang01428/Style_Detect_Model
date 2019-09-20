@@ -1,0 +1,26 @@
+<annotation>
+	<folder>S_skirt</folder>
+	<filename>S_skirt299.jpg</filename>
+	<path>C:\Users\yunch\Desktop\S_skirt\S_skirt299.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>205</width>
+		<height>246</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>S_skirt</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>1</ymin>
+			<xmax>144</xmax>
+			<ymax>117</ymax>
+		</bndbox>
+	</object>
+</annotation>

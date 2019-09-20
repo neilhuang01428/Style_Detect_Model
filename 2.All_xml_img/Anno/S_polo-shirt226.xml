@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>polo shirt</folder>
+	<filename>S_polo-shirt226.jpg</filename>
+	<path>C:\Users\yunch\Desktop\polo shirt\S_polo-shirt226.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>217</width>
+		<height>233</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>S_polo shirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>12</ymin>
+			<xmax>184</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+</annotation>

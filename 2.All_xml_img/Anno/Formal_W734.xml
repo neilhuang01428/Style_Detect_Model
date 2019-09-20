@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Formal_W</folder>
+	<filename>Formal_W734.jpg</filename>
+	<path>C:\Users\a0903\OneDrive\&#26700;&#38754;\&#23526;&#32722;&#22577;&#21578;\&#24037;&#20316;&#31359;&#33879;&#28310;&#21063;\Formal_W\Formal_W734.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>240</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>S_business casual jacket</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>8</ymin>
+			<xmax>162</xmax>
+			<ymax>126</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F_dress pants</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>102</ymin>
+			<xmax>157</xmax>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>C_sandals</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>251</ymin>
+			<xmax>161</xmax>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+</annotation>

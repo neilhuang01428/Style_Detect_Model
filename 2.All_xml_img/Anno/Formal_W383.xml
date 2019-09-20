@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Formal_W</folder>
+	<filename>Formal_W383.jpg</filename>
+	<path>C:\Users\a0903\OneDrive\&#26700;&#38754;\&#23526;&#32722;&#22577;&#21578;\&#24037;&#20316;&#31359;&#33879;&#28310;&#21063;\Formal_W\Formal_W383.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>287</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C_shorts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>75</ymin>
+			<xmax>241</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

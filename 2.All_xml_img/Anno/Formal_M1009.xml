@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Formal3</folder>
+	<filename>Formal_M168.jpg</filename>
+	<path>C:\Users\Dale\Desktop\&#24037;&#20316;&#31359;&#33879;&#28310;&#21063;-20190708T072430Z-001\Formal3\Formal_M168.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>220</width>
+		<height>220</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C_jacket</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>6</ymin>
+			<xmax>174</xmax>
+			<ymax>175</ymax>
+		</bndbox>
+	</object>
+</annotation>

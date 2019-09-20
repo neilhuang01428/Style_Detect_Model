@@ -1,0 +1,26 @@
+<annotation>
+	<folder>&#25918;&#36889;</folder>
+	<filename>Smart casual_M1054.jpg</filename>
+	<path>C:\Users\wu870225\Downloads\&#25918;&#36889;\Smart casual_M1054.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>753</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>S_loaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>381</xmin>
+			<ymin>487</ymin>
+			<xmax>668</xmax>
+			<ymax>662</ymax>
+		</bndbox>
+	</object>
+</annotation>

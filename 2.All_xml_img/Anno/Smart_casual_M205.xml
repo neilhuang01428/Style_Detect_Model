@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Smart casual_M</folder>
+	<filename>Smart casual_M205.jpg</filename>
+	<path>D:\&#21205;&#24037;&#20013;\Smart casual_M\Smart casual_M205.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>449</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>S_shooting jacket</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>32</ymin>
+			<xmax>384</xmax>
+			<ymax>484</ymax>
+		</bndbox>
+	</object>
+</annotation>

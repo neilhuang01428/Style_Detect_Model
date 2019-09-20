@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>cardigan sweater</folder>
+	<filename>S_cardigan-sweater256.jpg</filename>
+	<path>C:\Users\yunch\Desktop\cardigan sweater\S_cardigan-sweater256.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>S_cardigan sweater</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>27</ymin>
+			<xmax>228</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+</annotation>

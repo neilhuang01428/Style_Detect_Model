@@ -1,0 +1,26 @@
+<annotation>
+	<folder>casual_W</folder>
+	<filename>Casual_W1190.jpg</filename>
+	<path>C:\Users\&#38515;&#24609;&#38748;\Desktop\&#24037;&#20316;&#31359;&#33879;&#28310;&#21063;\casual_W\Casual_W1190.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>S_business casual jacket</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>225</xmax>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+</annotation>

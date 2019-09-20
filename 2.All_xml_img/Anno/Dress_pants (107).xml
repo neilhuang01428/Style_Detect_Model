@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Dress_Pants</folder>
+	<filename>Dress_pants (107).jpg</filename>
+	<path>C:\Users\alber\Desktop\工作內容\中國信託數據研究發展中心\工作穿著準則\blazer_blouse_dpants_ttop_tie\原圖_blazer_blouse_dpants_ttop_tie\Dress_Pants\Dress_pants (107).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>S_W_pants</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymin>124</ymin>
+			<xmax>325</xmax>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>S_W_pants</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>125</ymin>
+			<xmax>76</xmax>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Formal4</folder>
+	<filename>Formal_M225.jpg</filename>
+	<path>C:\Users\Dale\Desktop\&#24037;&#20316;&#31359;&#33879;&#28310;&#21063;-20190708T072430Z-001\Formal4\Formal_M225.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>216</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C_jacket</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>1</ymin>
+			<xmax>260</xmax>
+			<ymax>194</ymax>
+		</bndbox>
+	</object>
+</annotation>

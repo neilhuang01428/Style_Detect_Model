@@ -1,0 +1,26 @@
+<annotation>
+	<folder>belt</folder>
+	<filename>Nicky_belt_550.jpg</filename>
+	<path>C:\Users\a0903\OneDrive\桌面\實習報告\重新貼標\belt\Nicky_belt_550.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>201</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F_belt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>125</ymin>
+			<xmax>124</xmax>
+			<ymax>141</ymax>
+		</bndbox>
+	</object>
+</annotation>
