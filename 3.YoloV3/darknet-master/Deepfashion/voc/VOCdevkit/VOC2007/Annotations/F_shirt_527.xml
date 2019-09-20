@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>FORMAL SHIRT 改</folder>
+	<filename>F_shirt_527.jpg</filename>
+	<path>D:\動工中\FORMAL SHIRT 改\F_shirt_527.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>286</width>
+		<height>176</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C_shirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>11</ymin>
+			<xmax>175</xmax>
+			<ymax>164</ymax>
+		</bndbox>
+	</object>
+</annotation>

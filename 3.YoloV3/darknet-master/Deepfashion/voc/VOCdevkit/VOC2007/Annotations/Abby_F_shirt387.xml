@@ -1,0 +1,26 @@
+<annotation>
+	<folder>F_shirt</folder>
+	<filename>F_shirt387.jpg</filename>
+	<path>C:\Users\yunch\Desktop\F_shirt\F_shirt387.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>337</width>
+		<height>150</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F_shirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>39</ymin>
+			<xmax>270</xmax>
+			<ymax>136</ymax>
+		</bndbox>
+	</object>
+</annotation>

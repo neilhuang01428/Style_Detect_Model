@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Tie</folder>
+	<filename>Tie (114).jpg</filename>
+	<path>C:\Users\a0903\OneDrive\桌面\實習報告\重新貼標\Tie\Tie (114).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>260</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F_tie</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>1</ymin>
+			<xmax>90</xmax>
+			<ymax>252</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F_tie</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>1</ymin>
+			<xmax>164</xmax>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F_tie</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>1</ymin>
+			<xmax>236</xmax>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+</annotation>

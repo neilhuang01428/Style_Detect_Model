@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dress2</folder>
+	<filename>sam_f200.jpg</filename>
+	<path>/Users/mingshenglyu/Desktop/dress2/sam_f200.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>472</width>
+		<height>472</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F_M_suit jacket</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>107</ymin>
+			<xmax>345</xmax>
+			<ymax>432</ymax>
+		</bndbox>
+	</object>
+</annotation>

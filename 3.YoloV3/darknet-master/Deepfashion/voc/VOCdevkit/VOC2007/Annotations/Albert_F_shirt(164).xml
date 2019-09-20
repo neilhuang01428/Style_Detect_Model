@@ -1,0 +1,26 @@
+<annotation>
+	<folder>temp_pic</folder>
+	<filename>Albert_F_shirt(164).jpg</filename>
+	<path>/Users/NeilHuang/Desktop/relabel/temp_pic/Albert_F_shirt(164).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>173</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F_tailored skirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>109</ymin>
+			<xmax>80</xmax>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+</annotation>

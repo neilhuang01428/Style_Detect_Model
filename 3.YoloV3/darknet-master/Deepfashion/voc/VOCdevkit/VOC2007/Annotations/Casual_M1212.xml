@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Casual_Men</folder>
+	<filename>Casual_M (1223).jpg</filename>
+	<path>C:\Users\alber\Desktop\&#24037;&#20316;&#20839;&#23481;\&#20013;&#22283;&#20449;&#35351;&#25976;&#25818;&#30740;&#31350;&#30332;&#23637;&#20013;&#24515;\&#24037;&#20316;&#31359;&#33879;&#28310;&#21063;\Casual_Men\Casual_M (1223).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>1101</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C_sneakers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>235</xmin>
+			<ymin>966</ymin>
+			<xmax>622</xmax>
+			<ymax>1086</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>C_jeans</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>260</xmin>
+			<ymin>583</ymin>
+			<xmax>532</xmax>
+			<ymax>984</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>C_hoodie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>9</ymin>
+			<xmax>530</xmax>
+			<ymax>608</ymax>
+		</bndbox>
+	</object>
+</annotation>

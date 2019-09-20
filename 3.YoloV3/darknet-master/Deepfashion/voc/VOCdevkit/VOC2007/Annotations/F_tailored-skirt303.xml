@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pencil_skirt</folder>
+	<filename>F_tailored-skirt303.jpg</filename>
+	<path>C:\Users\a0903\OneDrive\桌面\實習報告\重新貼標\pencil_skirt\F_tailored-skirt303.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>95</width>
+		<height>204</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F_tailored skirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>99</ymin>
+			<xmax>80</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>&#25918;&#36889;</folder>
+	<filename>Smart casual_M1075.jpg</filename>
+	<path>C:\Users\wu870225\Downloads\&#25918;&#36889;\Smart casual_M1075.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C_jeans</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>37</ymin>
+			<xmax>430</xmax>
+			<ymax>685</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>C_sneakers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>211</xmin>
+			<ymin>672</ymin>
+			<xmax>498</xmax>
+			<ymax>793</ymax>
+		</bndbox>
+	</object>
+</annotation>
