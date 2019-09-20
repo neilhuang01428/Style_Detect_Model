@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>glenna_tailored_skirt</folder>
+	<filename>glenna_tailored_skirt244.jpg</filename>
+	<path>C:\Users\陳怡靜\Desktop\glenna_tailored_skirt\glenna_tailored_skirt244.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>214</width>
+		<height>235</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F_tailored skirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>143</ymin>
+			<xmax>131</xmax>
+			<ymax>215</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F_W_suit jacket</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>61</ymin>
+			<xmax>170</xmax>
+			<ymax>166</ymax>
+		</bndbox>
+	</object>
+</annotation>

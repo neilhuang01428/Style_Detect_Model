@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>Casual_Men</folder>
+	<filename>Casual_M (1592).jpg</filename>
+	<path>C:\Users\alber\Desktop\工作內容\中國信託數據研究發展中心\工作穿著準則\Casual_Men\Casual_M (1592).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>468</width>
+		<height>624</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C_sneakers</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>510</ymin>
+			<xmax>304</xmax>
+			<ymax>624</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>face_M</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>244</xmin>
+			<ymin>41</ymin>
+			<xmax>298</xmax>
+			<ymax>120</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>C_long sleeve</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>108</ymin>
+			<xmax>350</xmax>
+			<ymax>318</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>C_M_pants</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>307</ymin>
+			<xmax>325</xmax>
+			<ymax>555</ymax>
+		</bndbox>
+	</object>
+</annotation>

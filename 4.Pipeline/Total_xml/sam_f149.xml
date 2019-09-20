@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>dress2</folder>
+	<filename>sam_f149.jpg</filename>
+	<path>/Users/mingshenglyu/Desktop/dress2/sam_f149.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>177</width>
+		<height>285</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F_W_suit jacket</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>59</ymin>
+			<xmax>153</xmax>
+			<ymax>218</ymax>
+		</bndbox>
+	</object>
+</annotation>

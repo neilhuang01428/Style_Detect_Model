@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>Smart casual_M</folder>
+	<filename>Smart casual_M766.jpg</filename>
+	<path>D:\動工中\Smart casual_M\Smart casual_M766.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>468</width>
+		<height>624</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face_M</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>259</xmin>
+			<ymin>146</ymin>
+			<xmax>388</xmax>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>S_shirt</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>293</ymin>
+			<xmax>460</xmax>
+			<ymax>624</ymax>
+		</bndbox>
+	</object>
+</annotation>

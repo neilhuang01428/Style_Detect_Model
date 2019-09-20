@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Formal3</folder>
+	<filename>Formal_M335.jpg</filename>
+	<path>C:\Users\Dale\Desktop\&#24037;&#20316;&#31359;&#33879;&#28310;&#21063;-20190708T072430Z-001\Formal3\Formal_M335.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C_long sleeve</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>97</ymin>
+			<xmax>165</xmax>
+			<ymax>220</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>C_long sleeve</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>8</ymin>
+			<xmax>162</xmax>
+			<ymax>98</ymax>
+		</bndbox>
+	</object>
+</annotation>

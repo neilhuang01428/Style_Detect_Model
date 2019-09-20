@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>1</folder>
+	<filename>Formal_M19.jpg</filename>
+	<path>C:\Users\Dale\Desktop\工作穿著準則-20190708T072430Z-001\1\Formal_M19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>220</width>
+		<height>220</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>S_shirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>34</ymin>
+			<xmax>179</xmax>
+			<ymax>203</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>temp_pic</folder>
+	<filename>F_shirt_1046.jpg</filename>
+	<path>/Users/NeilHuang/Desktop/relabel/temp_pic/F_shirt_1046.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>S_shirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>7</ymin>
+			<xmax>117</xmax>
+			<ymax>103</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F_shirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>134</xmin>
+			<ymin>5</ymin>
+			<xmax>218</xmax>
+			<ymax>101</ymax>
+		</bndbox>
+	</object>
+</annotation>

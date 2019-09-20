@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>Formal3</folder>
+	<filename>Formal_M150.jpg</filename>
+	<path>C:\Users\Dale\Desktop\工作穿著準則-20190708T072430Z-001\Formal3\Formal_M150.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>205</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face_M</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>28</ymin>
+			<xmax>112</xmax>
+			<ymax>81</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>C_T-shirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>85</ymin>
+			<xmax>166</xmax>
+			<ymax>245</ymax>
+		</bndbox>
+	</object>
+</annotation>

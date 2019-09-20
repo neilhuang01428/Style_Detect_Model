@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dress2</folder>
+	<filename>sam_f215.jpg</filename>
+	<path>/Users/mingshenglyu/Desktop/dress2/sam_f215.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F_tie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>363</xmin>
+			<ymin>396</ymin>
+			<xmax>445</xmax>
+			<ymax>607</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F_M_suit jacket</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>355</ymin>
+			<xmax>722</xmax>
+			<ymax>1005</ymax>
+		</bndbox>
+	</object>
+</annotation>

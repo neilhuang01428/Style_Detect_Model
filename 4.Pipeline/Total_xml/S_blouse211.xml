@@ -1,0 +1,38 @@
+<annotation>
+	<folder>temp_pic</folder>
+	<filename>S_blouse211.jpg</filename>
+	<path>/Users/NeilHuang/Desktop/relabel/temp_pic/S_blouse211.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>173</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>S_blouse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>49</ymin>
+			<xmax>126</xmax>
+			<ymax>119</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F_tailored skirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>92</ymin>
+			<xmax>104</xmax>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+</annotation>

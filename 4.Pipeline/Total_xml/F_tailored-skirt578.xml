@@ -1,0 +1,38 @@
+<annotation>
+	<folder>temp_pic</folder>
+	<filename>F_tailored-skirt578.jpg</filename>
+	<path>/Users/NeilHuang/Desktop/relabel/temp_pic/F_tailored-skirt578.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>183</width>
+		<height>275</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F_tailored skirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>94</ymin>
+			<xmax>119</xmax>
+			<ymax>197</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F_shirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>45</ymin>
+			<xmax>131</xmax>
+			<ymax>140</ymax>
+		</bndbox>
+	</object>
+</annotation>

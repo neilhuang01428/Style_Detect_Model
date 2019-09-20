@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>Picture</folder>
+	<filename>Smart_casual_W146.jpg</filename>
+	<path>/Users/NeilHuang/Desktop/工作/中國信託/輪調/視覺實驗室/風格辨識/All_xml_img_data/Picture/Smart_casual_W146.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>460</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face_W</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>135</xmin>
+			<ymin>42</ymin>
+			<xmax>186</xmax>
+			<ymax>102</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F_W_suit jacket</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>100</ymin>
+			<xmax>240</xmax>
+			<ymax>373</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>S_W_pants</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>302</ymin>
+			<xmax>221</xmax>
+			<ymax>460</ymax>
+		</bndbox>
+	</object>
+</annotation>

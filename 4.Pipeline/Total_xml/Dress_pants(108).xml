@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>temp_pic</folder>
+	<filename>Dress_pants(108).jpg</filename>
+	<path>/Users/NeilHuang/Desktop/relabel/temp_pic/Dress_pants(108).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>411</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>S_W_pants</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>119</ymin>
+			<xmax>387</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>S_W_pants</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>118</ymin>
+			<xmax>103</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F_W_suit jacket</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>47</ymin>
+			<xmax>95</xmax>
+			<ymax>132</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F_W_suit jacket</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>322</xmin>
+			<ymin>51</ymin>
+			<xmax>388</xmax>
+			<ymax>128</ymax>
+		</bndbox>
+	</object>
+</annotation>

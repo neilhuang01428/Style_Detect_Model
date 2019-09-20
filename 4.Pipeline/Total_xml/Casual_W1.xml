@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>temp_picture</folder>
+	<filename>Casual_W1.jpg</filename>
+	<path>/Users/NeilHuang/Desktop/工作/中國信託/輪調/視覺實驗室/風格辨識/All_xml_img_data/temp_picture/Casual_W1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>972</width>
+		<height>972</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face_W</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>412</xmin>
+			<ymin>73</ymin>
+			<xmax>557</xmax>
+			<ymax>227</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>C_tank top</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>299</xmin>
+			<ymin>254</ymin>
+			<xmax>732</xmax>
+			<ymax>743</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>C_skirt</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>341</xmin>
+			<ymin>621</ymin>
+			<xmax>761</xmax>
+			<ymax>972</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>Formal3</folder>
+	<filename>Formal_M217.jpg</filename>
+	<path>C:\Users\Dale\Desktop\工作穿著準則-20190708T072430Z-001\Formal3\Formal_M217.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>617</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F_tie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>340</xmin>
+			<ymin>73</ymin>
+			<xmax>436</xmax>
+			<ymax>494</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F_M_suit jacket</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>18</ymin>
+			<xmax>800</xmax>
+			<ymax>611</ymax>
+		</bndbox>
+	</object>
+</annotation>

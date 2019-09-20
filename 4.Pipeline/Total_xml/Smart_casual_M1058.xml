@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>放這</folder>
+	<filename>Smart casual_M1058.jpg</filename>
+	<path>C:\Users\wu870225\Downloads\放這\Smart casual_M1058.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face_M</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>265</xmin>
+			<ymin>64</ymin>
+			<xmax>329</xmax>
+			<ymax>131</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>C_jacket</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>226</xmin>
+			<ymin>137</ymin>
+			<xmax>409</xmax>
+			<ymax>437</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F_dress pants</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>254</xmin>
+			<ymin>414</ymin>
+			<xmax>424</xmax>
+			<ymax>723</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>C_sneakers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymin>711</ymin>
+			<xmax>426</xmax>
+			<ymax>785</ymax>
+		</bndbox>
+	</object>
+</annotation>

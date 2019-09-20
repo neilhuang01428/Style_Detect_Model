@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>casual_W</folder>
+	<filename>Casual_W1281.jpg</filename>
+	<path>C:\Users\陳怡靜\Desktop\工作穿著準則\casual_W\Casual_W1281.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>288</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face_W</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>7</ymin>
+			<xmax>194</xmax>
+			<ymax>83</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>S_short blouse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>102</ymin>
+			<xmax>260</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>

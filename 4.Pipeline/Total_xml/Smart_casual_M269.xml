@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>Smart casual_M</folder>
+	<filename>Smart casual_M269.jpg</filename>
+	<path>D:\動工中\Smart casual_M\Smart casual_M269.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>468</width>
+		<height>625</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>S_polo shirt</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>1</ymin>
+			<xmax>326</xmax>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+</annotation>

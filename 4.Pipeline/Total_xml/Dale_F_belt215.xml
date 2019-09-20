@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>皮帶</folder>
+	<filename>F_belt215.jpg</filename>
+	<path>C:\Users\Dale\Desktop\皮帶\F_belt215.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>616</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F_belt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>233</xmin>
+			<ymin>290</ymin>
+			<xmax>370</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F_dress pants</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>339</ymin>
+			<xmax>446</xmax>
+			<ymax>607</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F_M_suit jacket</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>19</ymin>
+			<xmax>455</xmax>
+			<ymax>393</ymax>
+		</bndbox>
+	</object>
+</annotation>

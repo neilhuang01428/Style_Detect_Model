@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>Smart casual_W</folder>
+	<filename>Smart casual_W1313.jpg</filename>
+	<path>C:\Users\yunch\Desktop\工作穿著準則\Smart casual_W\Smart casual_W1313.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>198</width>
+		<height>198</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face_W</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>1</ymin>
+			<xmax>140</xmax>
+			<ymax>35</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>C_T-shirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>46</ymin>
+			<xmax>167</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>C_W_pants</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>150</ymin>
+			<xmax>159</xmax>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+</annotation>

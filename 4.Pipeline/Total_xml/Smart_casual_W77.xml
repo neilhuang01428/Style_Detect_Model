@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>Picture</folder>
+	<filename>Smart_casual_W77.jpg</filename>
+	<path>/Users/NeilHuang/Desktop/Picture/Smart_casual_W77.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>736</width>
+		<height>943</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F_W_suit jacket</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymin>18</ymin>
+			<xmax>504</xmax>
+			<ymax>413</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>S_W_pants</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>209</xmin>
+			<ymin>346</ymin>
+			<xmax>506</xmax>
+			<ymax>822</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>S_heels</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>257</xmin>
+			<ymin>796</ymin>
+			<xmax>476</xmax>
+			<ymax>927</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>Formal_W</folder>
+	<filename>Formal_W3.jpg</filename>
+	<path>C:\Users\a0903\OneDrive\桌面\實習報告\工作穿著準則\Formal_W\Formal_W3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1034</width>
+		<height>1034</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F_W_suit jacket</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>70</ymin>
+			<xmax>825</xmax>
+			<ymax>921</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F_shirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>400</xmin>
+			<ymin>57</ymin>
+			<xmax>638</xmax>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F_tailored skirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>673</ymin>
+			<xmax>814</xmax>
+			<ymax>1030</ymax>
+		</bndbox>
+	</object>
+</annotation>

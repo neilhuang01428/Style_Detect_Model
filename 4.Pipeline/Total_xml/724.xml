@@ -1,0 +1,38 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>724.jpg</filename>
+	<path>/Users/NeilHuang/Desktop/Deepfashion0821/voc/VOCdevkit/VOC2007/JPEGImages/724.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>362</width>
+		<height>362</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C_short blouse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>29</ymin>
+			<xmax>358</xmax>
+			<ymax>215</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>C_jeans</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>194</ymin>
+			<xmax>250</xmax>
+			<ymax>362</ymax>
+		</bndbox>
+	</object>
+</annotation>

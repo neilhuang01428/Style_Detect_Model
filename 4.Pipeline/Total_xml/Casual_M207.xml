@@ -1,0 +1,38 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>Casual_M207.jpg</filename>
+	<path>/Users/NeilHuang/Desktop/Deepfashion0821/voc/VOCdevkit/VOC2007/JPEGImages/Casual_M207.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F_M_suit jacket</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>15</ymin>
+			<xmax>515</xmax>
+			<ymax>565</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F_belt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>247</xmin>
+			<ymin>440</ymin>
+			<xmax>365</xmax>
+			<ymax>496</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,50 @@
+<annotation>
+	<folder>temp_pic</folder>
+	<filename>Dress_pants(3).jpg</filename>
+	<path>/Users/NeilHuang/Desktop/relabel/temp_pic/Dress_pants(3).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>173</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F_dress pants</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>123</ymin>
+			<xmax>122</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F_M_suit jacket</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>48</ymin>
+			<xmax>117</xmax>
+			<ymax>141</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F_tie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>55</ymin>
+			<xmax>89</xmax>
+			<ymax>90</ymax>
+		</bndbox>
+	</object>
+</annotation>

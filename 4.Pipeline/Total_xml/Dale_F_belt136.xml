@@ -1,0 +1,38 @@
+<annotation>
+	<folder>temp_pic</folder>
+	<filename>Dale_F_belt136.jpg</filename>
+	<path>/Users/NeilHuang/Desktop/relabel/temp_pic/Dale_F_belt136.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>1645</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F_belt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>174</xmin>
+			<ymin>605</ymin>
+			<xmax>1137</xmax>
+			<ymax>773</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F_dress pants</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>608</ymin>
+			<xmax>1147</xmax>
+			<ymax>1628</ymax>
+		</bndbox>
+	</object>
+</annotation>

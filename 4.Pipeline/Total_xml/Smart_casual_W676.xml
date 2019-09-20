@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>temp_picture_嘉</folder>
+	<filename>Smart_casual_W676.jpg</filename>
+	<path>C:\Users\Jarvan\Downloads\temp_picture_嘉\Smart_casual_W676.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face_W</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>26</ymin>
+			<xmax>183</xmax>
+			<ymax>66</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>S_cardigan sweater</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>81</ymin>
+			<xmax>241</xmax>
+			<ymax>250</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>C_shorts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>180</ymin>
+			<xmax>194</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+</annotation>

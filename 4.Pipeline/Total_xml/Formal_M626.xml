@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>Formal3</folder>
+	<filename>Formal_M135.jpg</filename>
+	<path>C:\Users\Dale\Desktop\工作穿著準則-20190708T072430Z-001\Formal3\Formal_M135.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face_M</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>776</xmin>
+			<ymin>91</ymin>
+			<xmax>1126</xmax>
+			<ymax>420</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F_tie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>942</xmin>
+			<ymin>504</ymin>
+			<xmax>1051</xmax>
+			<ymax>948</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F_M_suit jacket</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>504</xmin>
+			<ymin>473</ymin>
+			<xmax>1489</xmax>
+			<ymax>1495</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F_dress pants</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>711</xmin>
+			<ymin>1251</ymin>
+			<xmax>1389</xmax>
+			<ymax>2607</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F_dress shoes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>673</xmin>
+			<ymin>2566</ymin>
+			<xmax>992</xmax>
+			<ymax>2857</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F_dress shoes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1170</xmin>
+			<ymin>2541</ymin>
+			<xmax>1386</xmax>
+			<ymax>2854</ymax>
+		</bndbox>
+	</object>
+</annotation>

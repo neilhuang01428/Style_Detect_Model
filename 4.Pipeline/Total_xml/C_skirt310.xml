@@ -1,0 +1,38 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>C_skirt310.jpg</filename>
+	<path>/Users/NeilHuang/Desktop/Deepfashion0821/voc/VOCdevkit/VOC2007/JPEGImages/C_skirt310.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>192</width>
+		<height>262</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C_skirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>89</ymin>
+			<xmax>124</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>C_tank top</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>43</ymin>
+			<xmax>123</xmax>
+			<ymax>92</ymax>
+		</bndbox>
+	</object>
+</annotation>

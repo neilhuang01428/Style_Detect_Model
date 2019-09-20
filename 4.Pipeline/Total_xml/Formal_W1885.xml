@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>Formal_W</folder>
+	<filename>Formal_W1885.jpg</filename>
+	<path>C:\Users\a0903\OneDrive\桌面\實習報告\工作穿著準則\Formal_W\Formal_W1885.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>201</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face_W</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>42</ymin>
+			<xmax>252</xmax>
+			<ymax>59</ymax>
+		</bndbox>
+	</object>
+</annotation>

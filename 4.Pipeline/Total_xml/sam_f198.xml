@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dress2</folder>
+	<filename>sam_f198.jpg</filename>
+	<path>/Users/mingshenglyu/Desktop/dress2/sam_f198.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>1129</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F_shirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>264</xmin>
+			<ymin>225</ymin>
+			<xmax>609</xmax>
+			<ymax>427</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F_tailored skirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>294</xmin>
+			<ymin>425</ymin>
+			<xmax>483</xmax>
+			<ymax>680</ymax>
+		</bndbox>
+	</object>
+</annotation>

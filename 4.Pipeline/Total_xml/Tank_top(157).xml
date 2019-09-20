@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tank_Top</folder>
+	<filename>Tank_top (157).jpg</filename>
+	<path>C:\Users\alber\Desktop\工作內容\中國信託數據研究發展中心\工作穿著準則\Tank_Top\Tank_top (157).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>173</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C_tank top</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>107</ymin>
+			<xmax>140</xmax>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
+</annotation>

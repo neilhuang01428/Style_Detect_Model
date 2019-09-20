@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>temp_picture_嘉</folder>
+	<filename>Casual_M1303.jpg</filename>
+	<path>C:\Users\Jarvan\Downloads\temp_picture_嘉\Casual_M1303.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>1101</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C_sneakers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>854</ymin>
+			<xmax>417</xmax>
+			<ymax>1071</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>C_jeans</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>218</xmin>
+			<ymin>517</ymin>
+			<xmax>435</xmax>
+			<ymax>988</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F_M_suit jacket</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>171</ymin>
+			<xmax>439</xmax>
+			<ymax>582</ymax>
+		</bndbox>
+	</object>
+</annotation>

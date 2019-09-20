@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>business_casual_jacket_women___Google_搜尋</folder>
+	<filename>S_business_casual_jacket462.jpg</filename>
+	<path>C:\Users\Dale\Desktop\business_casual_jacket_women___Google_搜尋\S_business_casual_jacket462.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F_W_suit jacket</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>121</ymin>
+			<xmax>262</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F_W_suit jacket</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>276</xmin>
+			<ymin>112</ymin>
+			<xmax>500</xmax>
+			<ymax>403</ymax>
+		</bndbox>
+	</object>
+</annotation>

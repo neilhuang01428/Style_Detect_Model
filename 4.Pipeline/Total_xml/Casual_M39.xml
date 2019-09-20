@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>Picture</folder>
+	<filename>Casual_M39.jpg</filename>
+	<path>/Users/NeilHuang/Desktop/Picture/Casual_M39.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face_M</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>19</ymin>
+			<xmax>148</xmax>
+			<ymax>96</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>C_long sleeve</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>88</ymin>
+			<xmax>219</xmax>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>C_M_pants</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>273</ymin>
+			<xmax>196</xmax>
+			<ymax>440</ymax>
+		</bndbox>
+	</object>
+</annotation>

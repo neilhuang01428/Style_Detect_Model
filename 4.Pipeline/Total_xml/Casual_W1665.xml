@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>casual_W</folder>
+	<filename>Casual_W1665.jpg</filename>
+	<path>C:\Users\陳怡靜\Desktop\工作穿著準則\casual_W\Casual_W1665.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>205</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face_W</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>36</ymin>
+			<xmax>127</xmax>
+			<ymax>75</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>C_hat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>1</ymin>
+			<xmax>156</xmax>
+			<ymax>52</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>S_cardigan sweater</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>76</ymin>
+			<xmax>165</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>

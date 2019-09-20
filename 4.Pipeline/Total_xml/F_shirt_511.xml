@@ -1,0 +1,26 @@
+<annotation>
+	<folder>正式襯衫</folder>
+	<filename>F_shirt_511.jpg</filename>
+	<path>C:\Users\wu870225\Downloads\正式襯衫\F_shirt_511.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>318</width>
+		<height>159</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F_shirt</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>61</ymin>
+			<xmax>226</xmax>
+			<ymax>159</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>皮帶</folder>
+	<filename>F_belt207.jpg</filename>
+	<path>C:\Users\Dale\Desktop\皮帶\F_belt207.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>310</width>
+		<height>430</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F_belt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>146</ymin>
+			<xmax>263</xmax>
+			<ymax>201</ymax>
+		</bndbox>
+	</object>
+</annotation>

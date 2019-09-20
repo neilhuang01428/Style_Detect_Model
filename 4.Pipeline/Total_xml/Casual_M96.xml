@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>Casual_Men</folder>
+	<filename>Casual_M (96).jpg</filename>
+	<path>C:\Users\alber\Desktop\工作內容\中國信託數據研究發展中心\工作穿著準則\Casual_Men\Casual_M (96).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>170</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face_M</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>14</ymin>
+			<xmax>95</xmax>
+			<ymax>59</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>C_long sleeve</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>64</ymin>
+			<xmax>142</xmax>
+			<ymax>216</ymax>
+		</bndbox>
+	</object>
+</annotation>

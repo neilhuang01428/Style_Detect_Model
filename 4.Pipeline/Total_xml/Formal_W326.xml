@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>Formal_W</folder>
+	<filename>Formal_W326.jpg</filename>
+	<path>C:\Users\a0903\OneDrive\桌面\實習報告\工作穿著準則\Formal_W\Formal_W326.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>171</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C_W_pants</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>1</ymin>
+			<xmax>156</xmax>
+			<ymax>276</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>C_sandals</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>262</ymin>
+			<xmax>162</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+</annotation>

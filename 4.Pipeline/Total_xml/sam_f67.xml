@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dress2</folder>
+	<filename>sam_f67.jpg</filename>
+	<path>/Users/mingshenglyu/Desktop/dress2/sam_f67.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>220</width>
+		<height>220</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F_tailored skirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>86</ymin>
+			<xmax>74</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F_tailored skirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>151</xmin>
+			<ymin>88</ymin>
+			<xmax>190</xmax>
+			<ymax>146</ymax>
+		</bndbox>
+	</object>
+</annotation>

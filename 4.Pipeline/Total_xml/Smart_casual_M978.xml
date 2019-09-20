@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>放這</folder>
+	<filename>Smart casual_M978.jpg</filename>
+	<path>C:\Users\wu870225\Downloads\放這\Smart casual_M978.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>314</width>
+		<height>419</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F_dress pants</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>81</ymin>
+			<xmax>222</xmax>
+			<ymax>356</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>C_sneakers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>355</ymin>
+			<xmax>132</xmax>
+			<ymax>395</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>C_sneakers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>172</xmin>
+			<ymin>347</ymin>
+			<xmax>213</xmax>
+			<ymax>397</ymax>
+		</bndbox>
+	</object>
+</annotation>

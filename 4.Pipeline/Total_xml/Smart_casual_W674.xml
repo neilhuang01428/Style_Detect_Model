@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Smart casual_W</folder>
+	<filename>Smart casual_W674.jpg</filename>
+	<path>C:\Users\yunch\Desktop\&#24037;&#20316;&#31359;&#33879;&#28310;&#21063;\Smart casual_W\Smart casual_W674.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>205</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C_jacket</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>45</ymin>
+			<xmax>163</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>C_sandals</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>233</ymin>
+			<xmax>154</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+</annotation>

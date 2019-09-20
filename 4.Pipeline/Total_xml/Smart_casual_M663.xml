@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Smart casual_M</folder>
+	<filename>Smart casual_M663.jpg</filename>
+	<path>D:\&#21205;&#24037;&#20013;\Smart casual_M\Smart casual_M663.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>468</width>
+		<height>702</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F_belt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>68</ymin>
+			<xmax>321</xmax>
+			<ymax>103</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F_dress pants</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>92</ymin>
+			<xmax>332</xmax>
+			<ymax>572</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>S_loaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>190</xmin>
+			<ymin>570</ymin>
+			<xmax>249</xmax>
+			<ymax>695</ymax>
+		</bndbox>
+	</object>
+</annotation>

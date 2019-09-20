@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Formal4</folder>
+	<filename>Formal_M215.jpg</filename>
+	<path>C:\Users\Dale\Desktop\&#24037;&#20316;&#31359;&#33879;&#28310;&#21063;-20190708T072430Z-001\Formal4\Formal_M215.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C_hoodie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>10</ymin>
+			<xmax>265</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+</annotation>

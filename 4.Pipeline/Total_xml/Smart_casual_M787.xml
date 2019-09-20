@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>temp_picture</folder>
+	<filename>Smart_casual_M787.jpg</filename>
+	<path>/Users/NeilHuang/Desktop/工作/中國信託/輪調/視覺實驗室/風格辨識/All_xml_img_data/temp_picture/Smart_casual_M787.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>468</width>
+		<height>702</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>S_shirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>11</ymin>
+			<xmax>422</xmax>
+			<ymax>569</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>C_M_pants</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>501</ymin>
+			<xmax>353</xmax>
+			<ymax>702</ymax>
+		</bndbox>
+	</object>
+</annotation>

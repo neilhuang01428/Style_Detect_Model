@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Smart casual_W</folder>
+	<filename>Smart casual_W1273.jpg</filename>
+	<path>C:\Users\yunch\Desktop\&#24037;&#20316;&#31359;&#33879;&#28310;&#21063;\Smart casual_W\Smart casual_W1273.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>153</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C_tank top</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>34</ymin>
+			<xmax>152</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>C_shorts</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>226</ymin>
+			<xmax>153</xmax>
+			<ymax>274</ymax>
+		</bndbox>
+	</object>
+</annotation>

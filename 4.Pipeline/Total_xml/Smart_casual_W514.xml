@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Smart casual_W</folder>
+	<filename>Smart casual_W514.jpg</filename>
+	<path>C:\Users\yunch\Desktop\&#24037;&#20316;&#31359;&#33879;&#28310;&#21063;\Smart casual_W\Smart casual_W514.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>254</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C_hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>3</ymin>
+			<xmax>126</xmax>
+			<ymax>33</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>C_long sleeve</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>70</ymin>
+			<xmax>227</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>C_jeans</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>208</ymin>
+			<xmax>231</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+</annotation>

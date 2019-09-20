@@ -1,0 +1,38 @@
+<annotation>
+	<folder>temp_pic</folder>
+	<filename>Nicky_belt_534.jpg</filename>
+	<path>/Users/NeilHuang/Desktop/relabel/temp_pic/Nicky_belt_534.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>245</width>
+		<height>205</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F_belt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>126</ymin>
+			<xmax>94</xmax>
+			<ymax>143</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F_M_suit jacket</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>48</ymin>
+			<xmax>121</xmax>
+			<ymax>139</ymax>
+		</bndbox>
+	</object>
+</annotation>

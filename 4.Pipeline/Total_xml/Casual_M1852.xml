@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Casual_Men</folder>
+	<filename>Casual_M (1894).jpg</filename>
+	<path>C:\Users\alber\Desktop\&#24037;&#20316;&#20839;&#23481;\&#20013;&#22283;&#20449;&#35351;&#25976;&#25818;&#30740;&#31350;&#30332;&#23637;&#20013;&#24515;\&#24037;&#20316;&#31359;&#33879;&#28310;&#21063;\Casual_Men\Casual_M (1894).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>291</width>
+		<height>516</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C_jeans</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>86</ymin>
+			<xmax>286</xmax>
+			<ymax>516</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>C_sneakers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>2</ymin>
+			<xmax>180</xmax>
+			<ymax>132</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Formal_W</folder>
+	<filename>Formal_W30.jpg</filename>
+	<path>C:\Users\a0903\OneDrive\&#26700;&#38754;\&#23526;&#32722;&#22577;&#21578;\&#24037;&#20316;&#31359;&#33879;&#28310;&#21063;\Formal_W\Formal_W30.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>468</width>
+		<height>624</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>S_dress</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>105</ymin>
+			<xmax>364</xmax>
+			<ymax>624</ymax>
+		</bndbox>
+	</object>
+</annotation>

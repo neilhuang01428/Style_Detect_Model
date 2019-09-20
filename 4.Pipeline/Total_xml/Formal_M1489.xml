@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>Formal4</folder>
+	<filename>Formal_M260.jpg</filename>
+	<path>C:\Users\Dale\Desktop\工作穿著準則-20190708T072430Z-001\Formal4\Formal_M260.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>234</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face_M</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>25</ymin>
+			<xmax>139</xmax>
+			<ymax>65</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>C_jacket</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>78</ymin>
+			<xmax>192</xmax>
+			<ymax>248</ymax>
+		</bndbox>
+	</object>
+</annotation>

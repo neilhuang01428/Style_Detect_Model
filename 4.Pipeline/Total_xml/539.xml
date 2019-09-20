@@ -1,0 +1,38 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>539.jpg</filename>
+	<path>/Users/NeilHuang/Desktop/Deepfashion0820/voc/VOCdevkit/VOC2007/JPEGImages/539.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>362</width>
+		<height>362</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>S_short blouse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>36</ymin>
+			<xmax>297</xmax>
+			<ymax>204</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>C_shorts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>199</ymin>
+			<xmax>260</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+</annotation>

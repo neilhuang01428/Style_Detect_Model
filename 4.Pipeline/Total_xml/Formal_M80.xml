@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Formal</folder>
+	<filename>Formal_M80.jpg</filename>
+	<path>C:\Users\Dale\Desktop\&#24037;&#20316;&#31359;&#33879;&#28310;&#21063;-20190708T072430Z-001\Formal\Formal_M80.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F_dress shoes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>207</ymin>
+			<xmax>125</xmax>
+			<ymax>231</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F_dress shoes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>214</ymin>
+			<xmax>163</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F_dress pants</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>13</ymin>
+			<xmax>166</xmax>
+			<ymax>218</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>S_skirt</folder>
+	<filename>S_skirt69.jpg</filename>
+	<path>C:\Users\陳怡靜\Desktop\工作穿著準則\S_skirt\S_skirt69.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>196</width>
+		<height>257</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F_tailored skirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>4</ymin>
+			<xmax>142</xmax>
+			<ymax>153</ymax>
+		</bndbox>
+	</object>
+</annotation>

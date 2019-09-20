@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Formal3</folder>
+	<filename>Formal_M68.jpg</filename>
+	<path>C:\Users\Dale\Desktop\&#24037;&#20316;&#31359;&#33879;&#28310;&#21063;-20190708T072430Z-001\Formal3\Formal_M68.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>625</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F_tie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>41</ymin>
+			<xmax>298</xmax>
+			<ymax>604</ymax>
+		</bndbox>
+	</object>
+</annotation>

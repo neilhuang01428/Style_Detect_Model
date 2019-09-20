@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Smart casual_M</folder>
+	<filename>Smart casual_M557.jpg</filename>
+	<path>D:\&#21205;&#24037;&#20013;\Smart casual_M\Smart casual_M557.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>468</width>
+		<height>702</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F_shirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>231</ymin>
+			<xmax>372</xmax>
+			<ymax>559</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F_belt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>135</xmin>
+			<ymin>558</ymin>
+			<xmax>342</xmax>
+			<ymax>602</ymax>
+		</bndbox>
+	</object>
+</annotation>

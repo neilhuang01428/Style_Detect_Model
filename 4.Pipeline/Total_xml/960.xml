@@ -1,0 +1,26 @@
+<annotation>
+	<folder>女生blouse</folder>
+	<filename>960.jpg</filename>
+	<path>D:\動工中\女生blouse\960.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>362</width>
+		<height>362</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C_T-shirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>20</ymin>
+			<xmax>310</xmax>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+</annotation>
