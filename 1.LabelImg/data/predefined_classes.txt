@@ -1,0 +1,53 @@
+C_shorts
+C_skirt
+C_tank top
+C_jeans
+C_W_pants
+C_M_pants
+C_T-shirt
+C_jacket
+C_hoodie
+C_dress
+S_W_pants
+F_M_suit jacket
+F_tie
+F_belt
+F_dress pants
+F_W_suit jacket
+F_tailored skirt
+F_shirt
+F_pocket square
+F_pumps
+F_heels
+F_tie clip
+F_dress shoes
+F_waistcoat
+S_business casual jacket
+S_skirt
+S_polo shirt
+S_M_pants
+S_blouse
+S_boots
+S_cardigan sweater
+S_coat
+S_dress
+S_heels
+S_loaf
+S_pumps
+S_shirt
+S_shooting jacket
+S_short blouse
+S_suit
+S_sweater
+C_blouse
+C_hat
+C_long sleeve
+C_romper
+C_sandals
+C_short blouse
+C_sneakers
+C_suit
+C_sunglasses
+C_vest
+face_M
+face_W
