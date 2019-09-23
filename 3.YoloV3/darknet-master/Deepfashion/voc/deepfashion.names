@@ -5,16 +5,17 @@ F_shirt
 F_tailored skirt
 F_tie
 F_W_suit jacket
-F_W_pants
-C_dress
-C_shorts
+S_W_pants
+S_polo shirt
+S_shirt
+S_cardigan sweater
 C_jacket
-C_cardigan sweater
+C_shorts
+C_jeans
+C_M_pants
 C_tank top
 C_T-shirt
-C_polo shirt
-C_shirt
-C_M_pants
 C_W_pants
-C_jeans
+C_hoodie
 C_skirt
+C_dress
